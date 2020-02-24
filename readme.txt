@@ -5,3 +5,5 @@ We are going to do some amazing things today!
 Stay tuned for helpful training on this useful tool!
 
 Nathan is a wonderful teacher! :)
+
+Using Github to help end extreme poverty AND have fun! 
