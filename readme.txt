@@ -1,4 +1,4 @@
-hi there, welcome to purple apple!
+hi there, we want to welcome you to purple apple!
 
 We are going to do some amazing things today!
 
