@@ -1,4 +1,4 @@
-hi there, welcome to purple apple!
+hi there, we want to welcome you to purple apple!
 
 We are going to do some amazing things today!
 
@@ -12,4 +12,4 @@ Lorem Ipsum
 
 Making a change
 
-This readme file doesn't make much sense!
+I have added another line but haven't had it reviewed. Hope I don't get merge conflicts.
