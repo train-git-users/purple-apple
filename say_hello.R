@@ -6,4 +6,8 @@ say_hello <- function() {
   print('Nathan: Ha-ha!')
 }
 
+say_hello_fun_version <- function() {
+  print('Hello!')
+}
+
 say_hello()
